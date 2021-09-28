@@ -13,6 +13,12 @@
 		5545EE8C2702690900583BF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5545EE7A2702690600583BF8 /* ContentView.swift */; };
 		5545EE8D2702690900583BF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5545EE7B2702690900583BF8 /* Assets.xcassets */; };
 		5545EE8E2702690900583BF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5545EE7B2702690900583BF8 /* Assets.xcassets */; };
+		5545EE9827038E8800583BF8 /* Flower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5545EE9727038E8800583BF8 /* Flower.swift */; };
+		5545EE9927038E8800583BF8 /* Flower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5545EE9727038E8800583BF8 /* Flower.swift */; };
+		5545EE9B27038EDF00583BF8 /* Arrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5545EE9A27038EDF00583BF8 /* Arrow.swift */; };
+		5545EE9C27038EDF00583BF8 /* Arrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5545EE9A27038EDF00583BF8 /* Arrow.swift */; };
+		5545EE9E27038F1600583BF8 /* ColorCycling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5545EE9D27038F1600583BF8 /* ColorCycling.swift */; };
+		5545EE9F27038F1600583BF8 /* ColorCycling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5545EE9D27038F1600583BF8 /* ColorCycling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,9 @@
 		5545EE802702690900583BF8 /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5545EE862702690900583BF8 /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5545EE882702690900583BF8 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		5545EE9727038E8800583BF8 /* Flower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flower.swift; sourceTree = "<group>"; };
+		5545EE9A27038EDF00583BF8 /* Arrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrow.swift; sourceTree = "<group>"; };
+		5545EE9D27038F1600583BF8 /* ColorCycling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCycling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +65,10 @@
 			children = (
 				5545EE792702690600583BF8 /* DrawingApp.swift */,
 				5545EE7A2702690600583BF8 /* ContentView.swift */,
+				5545EE9D27038F1600583BF8 /* ColorCycling.swift */,
+				5545EE9A27038EDF00583BF8 /* Arrow.swift */,
 				5545EE7B2702690900583BF8 /* Assets.xcassets */,
+				5545EE9727038E8800583BF8 /* Flower.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -177,7 +189,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5545EE8B2702690900583BF8 /* ContentView.swift in Sources */,
+				5545EE9B27038EDF00583BF8 /* Arrow.swift in Sources */,
 				5545EE892702690900583BF8 /* DrawingApp.swift in Sources */,
+				5545EE9827038E8800583BF8 /* Flower.swift in Sources */,
+				5545EE9E27038F1600583BF8 /* ColorCycling.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -186,7 +201,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5545EE8C2702690900583BF8 /* ContentView.swift in Sources */,
+				5545EE9C27038EDF00583BF8 /* Arrow.swift in Sources */,
 				5545EE8A2702690900583BF8 /* DrawingApp.swift in Sources */,
+				5545EE9927038E8800583BF8 /* Flower.swift in Sources */,
+				5545EE9F27038F1600583BF8 /* ColorCycling.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
