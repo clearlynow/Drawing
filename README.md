@@ -5,4 +5,4 @@ Getting familiar with SwiftUI Drawing - paths, shapes, strokes, transforms, draw
 https://www.hackingwithswift.com/100/swiftui/43
 
 # ScreenShots
-![Drawing Screenshot](<https://github.com/clearlynow/MultiplicationGame/blob/main/drawing.gif>)
+![Drawing Screenshot](<https://github.com/clearlynow/Drawing/blob/main/drawing.gif>)
